@@ -16,7 +16,7 @@ public class Bubble_Sort{
      */
     public static void main(String[] args) {
       
-        //Create a Array 
+        //Create a Array of 5 elements
         int []numbers={15,20,8,11,2,17};
         int k=0;
         
